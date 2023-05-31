@@ -1,0 +1,74 @@
+body {
+  background-color: #f2f2f2;
+  font-family: Arial, sans-serif;
+}
+.c{
+  padding-left: 29%;
+  padding-bottom: 8%;
+}
+
+.circle {
+  width: 150px;
+  height: 150px;
+  background-image: url('bech.jpg');
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
+}
+
+.cn{
+border: 2px solid #e3e5e7;
+width: 380px;
+height: 450px;
+margin-top: 10%;
+margin-left: 38%;
+background-color: #ffffff;
+
+}
+
+
+h1 {
+  color: #4267B2;
+  font-size: 2em;
+  padding-left: 28%;
+}
+.login-btn {
+  background-color: blue;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.bt{
+  padding-left: 40%;
+}
+
+.button {
+  width: 300px;
+  height: 50px;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  padding: 10px 20px;
+  background-color: #337ab7;
+  border-radius: 5px;
+  font-size: 16px;
+}
+.container {
+  text-align: center;
+  padding-top: 30%;
+}
+
+.put{
+  padding-left:2%;
+  padding-right: 4%;
+}
+input {
+  border: 1px solid #d9dada;
+  border-radius:5px ;
+  height: 45px;
+  width: 100%;
+  background-color: rgb(236, 236, 236);
+}
